@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+.nav ul{
+	background-color: Blue;
+	color: white;
+	padding: 10px;
+	display: flex;
+}
+.nav ul li{
+	padding-left: 20px;
+	font-size: 2rem;
+	display: inline;	
+}
+.nav a{
+	color: white;
+}
+.nav a:link{
+	text-decoration: none;
+}
+.nav a:visited{
+	text-decoration: none;
+}
+.nav a:hover{
+	text-decoration: none;
+	color: blue;
+}
+.nav a:active{
+	text-decoration: none;
+}
+.link{
+	font-size:1.8rem;
+	color:white;
+}
+.link a{
+	color:blue;
+}
+
+.link a:link{
+	text-decoration: none;
+}
+.link a:visited{
+	text-decoration: none;
+}
+.link a:hover{
+	text-decoration: none;
+	color: blue;
+}
+.link a:active{
+	text-decoration: none;
+}
